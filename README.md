@@ -18,9 +18,9 @@ Execute the program
 <html>
 
 <body>
-<h1>Name: Karthi Govindharaju</h1>
-<h3>Designation: Assistant Professor (SG) /h3>
-<h5>Dept.:Artificial Intelligence and Data Science</h5>
+<h1>Name: Ragul A.C</h1>
+<h2>Ref. No: 21500141 (SG) </h2>
+<h3>Dept.:Artificial Intelligence & Machine Learning</h3>
 </body>
 
 </html>
@@ -28,8 +28,8 @@ Execute the program
 # OUPUT
 <html>
 <body>
-<h1>Name: Karthi Govindharaju</h1>
-<h3>Designation: Assistant Professor (SG)</h3>
-<h5>Dept.:Artificial Intelligence and Data Science</h5>
+<h1>Name: Ragul A.C</h1>
+<h2>Ref. No: 21500141 (SG) </h2>
+<h3>Dept.:Artificial Intelligence & Machine Learning</h3>
 </body>
 </html>
